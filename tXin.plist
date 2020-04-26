@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://mtest.getech.cn/group1/M00/00/55/wKgChl6jq3WAR3vTBI33ZO9D0XA746.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://mtest.getech.cn/group1/M00/00/03/wKgChlywhZCAPJ-xAAAZ_Djny44678.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://mtest.getech.cn/group1/M00/00/03/wKgChlywhZCAPJ-xAAAZ_Djny44678.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.getech.teamwork.test</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>TeamWorks</string>
+				<key>title</key>
+				<string>TeamWorks</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
